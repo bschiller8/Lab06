@@ -1,3 +1,5 @@
+# Main and Encoder by Ben Schiller
+
 def encode():   # encoder -Ben Schiller
     password = input()
     result = ''
